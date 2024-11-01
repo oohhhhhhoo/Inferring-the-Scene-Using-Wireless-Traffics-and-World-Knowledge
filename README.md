@@ -14,4 +14,5 @@
 ## knowledge
 ### 802.11b
 1. https://www.cnblogs.com/rougungun/p/14340489.html
+2. https://dl.acm.org/doi/abs/10.1145/3580890
 ### IPB
