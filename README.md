@@ -25,3 +25,7 @@
 1. I frames(Intra-coded picture) hold complete image information
 2. P frames(Predicted picture) only contain changes in the image from previous frames
 3. B frames(Bi-directionally predicted pictures) can construct the image from wither direction using either changes from the I or P frames before them, changes from I and P frames after them, or interpolation between the I/P frames before and after them.
+
+### test result
+1. keep static for first 20s, then moving object for 20s, without motion detection
+   <img width="1678" alt="image" src="https://github.com/user-attachments/assets/a19e45c2-c7a9-4787-879b-d80f5f6d4b10">
