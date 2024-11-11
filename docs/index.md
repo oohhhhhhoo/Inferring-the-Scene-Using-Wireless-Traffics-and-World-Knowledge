@@ -5,8 +5,8 @@ Provide a brief overview of the project objhectives, approach, and results.
 # Team
 
 * Xiaoyi Han
-* Name of team member \#2Binglu Chen (delete this if necessary)
-* Name of team member \#3 (delete this if necessary)
+* Binglu Chen 
+
 
 # Required Submissions
 
